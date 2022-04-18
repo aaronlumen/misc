@@ -1,0 +1,533 @@
+#--------------------------------------------------------
+# Lumen AS details from arin.net 2022                   -
+# There are likely more under the Lumen Umbrella        -
+# This is what I was able to locate -aaronlumen-        - 
+# -------------------------------------------------------
+# Aaron.Surina@Lumen.com                                -
+# -------------------------------------------------------
+
+AS174   COGENT Cogent/PSI
+AS1281  COGENT-1281 - PSINet, Inc.
+AS1282  COGENT-1282 - PSINet, Inc.
+AS1283  COGENT-1283 - PSINet, Inc.
+AS1284  COGENT-1284 - PSINet, Inc.
+AS2149  COGENT-2149 - Cogent Communications
+AS2649  COGENT-2649 - PSINet, Inc.
+AS3830  COGENT-3830 - AGIS
+AS4006  COGENT-4006 - NetRail, Inc.
+AS4064  COGENT-4064 - AGIS
+AS4132  COGENT-4132 - AGIS
+AS4200  COGENT-4200 - AGIS
+AS4388  COGENT-4388 - AGIS
+AS4550  COGENT-4550 - Cogent Communications
+AS4991  COGENT-4991-4994 - AGIS
+AS4992  COGENT-4991-4994 - AGIS
+AS4993  COGENT-4991-4994 - AGIS
+AS4994  COGENT-4991-4994 - AGIS
+AS6259  COGENT-6259 - Cogent Communications
+AS6270  COGENT-6270 - NetRail, Inc.
+AS6271  COGENT-6271 - NetRail, Inc.
+AS6273  COGENT-6273 - NetRail, Inc.
+AS6274  COGENT-6274 - NetRail, Inc.
+AS6275  COGENT-6275 - NetRail, Inc.
+AS6276  COGENT-6276 - NetRail, Inc.
+AS6277  COGENT-6277 - NetRail, Inc.
+AS6494  COGENT-6494 - Cogent Communications
+AS6496  COGENT-6496 - Cogent Communications
+AS7061  COGENT-7061 - Cogent Communications
+AS7458  COGENT-7458 - Cogent Communications
+AS7982  COGENT-WAN - Cogent software,  Inc.
+AS10768 COGENT-10768 - Cogent Communications
+AS11024 COGENT-11024 - Cogent Communications
+AS11117 ASN-COGENT-QWEST - ENERGY CAPITAL PARTNERS MGMT
+AS11220 COGENT-11220 - Cogent Communications
+AS11526 COGENT-11526 - Cogent Communications
+AS12207 COGENT-12207 - Cogent Communications
+AS13129 GAT-AS C.C.D. Cogent Communications Deutschland GmbH
+AS16631 COGENT-16631 - Cogent Communications
+AS19164 COGENT-19164 - Cogent Communications
+AS22099 COGENT-22099 - Cogent Communications
+AS27544 SPECIALAI-COGENT-1 - Special Applied Intelligence Corp
+AS174   COGENT Cogent/PSI
+AS1281  COGENT-1281 - PSINet, Inc.
+AS1282  COGENT-1282 - PSINet, Inc.
+AS1283  COGENT-1283 - PSINet, Inc.
+AS1284  COGENT-1284 - PSINet, Inc.
+AS2149  COGENT-2149 - Cogent Communications
+AS2649  COGENT-2649 - PSINet, Inc.
+AS3830  COGENT-3830 - AGIS
+AS4006  COGENT-4006 - NetRail, Inc.
+AS4064  COGENT-4064 - AGIS
+AS4132  COGENT-4132 - AGIS
+AS4200  COGENT-4200 - AGIS
+AS4388  COGENT-4388 - AGIS
+AS4550  COGENT-4550 - Cogent Communications
+AS4991  COGENT-4991-4994 - AGIS
+AS4992  COGENT-4991-4994 - AGIS
+AS4993  COGENT-4991-4994 - AGIS
+AS4994  COGENT-4991-4994 - AGIS
+AS6259  COGENT-6259 - Cogent Communications
+AS6270  COGENT-6270 - NetRail, Inc.
+AS6271  COGENT-6271 - NetRail, Inc.
+AS6273  COGENT-6273 - NetRail, Inc.
+AS6274  COGENT-6274 - NetRail, Inc.
+AS6275  COGENT-6275 - NetRail, Inc.
+AS6276  COGENT-6276 - NetRail, Inc.
+AS6277  COGENT-6277 - NetRail, Inc.
+AS6494  COGENT-6494 - Cogent Communications
+AS6496  COGENT-6496 - Cogent Communications
+AS7061  COGENT-7061 - Cogent Communications
+AS7458  COGENT-7458 - Cogent Communications
+AS7982  COGENT-WAN - Cogent software,  Inc.
+AS10768 COGENT-10768 - Cogent Communications
+AS11024 COGENT-11024 - Cogent Communications
+AS11117 ASN-COGENT-QWEST - ENERGY CAPITAL PARTNERS MGMT
+AS11220 COGENT-11220 - Cogent Communications
+AS11526 COGENT-11526 - Cogent Communications
+AS12207 COGENT-12207 - Cogent Communications
+AS13129 GAT-AS C.C.D. Cogent Communications Deutschland GmbH
+AS16631 COGENT-16631 - Cogent Communications
+AS19164 COGENT-19164 - Cogent Communications
+AS22099 COGENT-22099 - Cogent Communications
+AS27544 SPECIALAI-COGENT-1 - Special Applied Intelligence Corp
+AS1     LVLT-1 - Level 3 Communications, Inc.
+AS189   LVLT-189 - Level 3 Communications, Inc.
+AS199   LVLT-199-203 - Level 3 Communications, Inc.
+AS200   LVLT-199-203 - Level 3 Communications, Inc.
+AS201   LVLT-199-203 - Level 3 Communications, Inc.
+AS202   LVLT-199-203 - Level 3 Communications, Inc.
+AS203   LVLT-199-203 - Level 3 Communications, Inc.
+AS279   LVLT-279 - Level 3 Communications, Inc.
+AS281   LVLT-281 - Level 3 Communications, Inc.
+AS524   LVLT-524 - Level 3 Communications, Inc.
+AS560   LVLT-560 - Level 3 Communications, Inc.
+AS594   LVLT594-598 - Level 3 Communications, Inc.
+AS595   LVLT594-598 - Level 3 Communications, Inc.
+AS596   LVLT594-598 - Level 3 Communications, Inc.
+AS597   LVLT594-598 - Level 3 Communications, Inc.
+AS598   LVLT594-598 - Level 3 Communications, Inc.
+AS2551  LVLT-2551 - Level 3 Communications, Inc.
+AS6395  LVLT-6395 - Level 3 Communications, Inc.
+AS7911  LVLT-7911 - Level 3 Communications, Inc.
+AS8043  LVLT-8043 - Level 3 Communications, Inc.
+AS10753 LVLT-10753 - Level 3 Communications, Inc.
+AS11213 LVLT - Level 3 Communications, Inc.
+AS16852 LVLT-16852 - Level 3 Communications, Inc.
+AS19094 LVLT-19094 - Level 3 Communications, Inc.
+AS19591 LVLT-19591 - Level 3 Communications, Inc.
+AS19962 LVLT-19962 - Level 3 Communications, Inc.
+AS20476 LVLT-20476 - Level 3 Communications, Inc.
+AS30686 LVLT-30686 - Level 3 Communications, Inc.
+AS209   ASN-QWEST-US NOVARTIS-DMZ-US
+AS1899  AS1899 OLD KPNQwest France AS
+AS3908  QWEST-AS-3908 - Qwest Communications Company, LLC
+AS3909  QWEST-AS-3908 - Qwest Communications Company, LLC
+AS3910  QWEST-AS-3908 - Qwest Communications Company, LLC
+AS3951  QWST - Qwest Communications Company, LLC
+AS4015  QWEST-AS-4015 - Qwest Corporation
+AS4048  QWEST-AS-4048 - Qwest Communications Company, LLC
+AS4911  QWEST-AS-4911 - Qwest Communications Company, LLC
+AS5602  KPNQwest Italia S.p.a
+AS5737  QWEST-AS-5737 - Qwest Corporation
+AS6223  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6224  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6225  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6226  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6227  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6640  QWEST-AS-6640 - Qwest Communications Company, LLC
+AS7161  QWEST-AS-7161 - Qwest Corporation
+AS7359  QWEST-AS-7359 - Qwest Corporation
+AS10117 VIEWQWEST-SG-AS-AP Viewqwest Singapore Pte Ltd Broadband Border AS
+AS10383 QWEST-AS-10383 - Qwest Corporation
+AS10424 QWEST-AS-10424 - Qwest Corporation
+AS10825 QWEST-ASNBLK-3 - Qwest Corporation
+AS10826 QWEST-ASNBLK-3 - Qwest Corporation
+AS10827 QWEST-ASNBLK-3 - Qwest Corporation
+AS10828 QWEST-ASNBLK-3 - Qwest Corporation
+AS10829 QWEST-ASNBLK-3 - Qwest Corporation
+AS10830 QWEST-ASNBLK-3 - Qwest Corporation
+AS10831 QWEST-ASNBLK-3 - Qwest Corporation
+AS10832 QWEST-ASNBLK-3 - Qwest Corporation
+AS10833 QWEST-ASNBLK-3 - Qwest Corporation
+AS10960 QWEST-AS-10960 - Qwest Corporation
+AS11104 QWEST-AS-11104 - Qwest Corporation
+AS11117 ASN-COGENT-QWEST - ENERGY CAPITAL PARTNERS MGMT
+AS11225 QWEST-ASNBLK-4 - Qwest Corporation
+AS11226 QWEST-ASNBLK-4 - Qwest Corporation
+AS11412 QWEST-AS-11412 - Qwest Corporation
+AS11538 QWEST-AS-11538 - Qwest Corporation
+AS18106 VIEWQWEST-SG-AP Viewqwest Pte Ltd
+AS19629 CONSULT-RAD-AS-QWEST - CONSULTING RADIOLOGIST, LTD
+AS26024 VIEWQ-NET - Viewqwest, Inc
+AS5668  AS-5668 - CenturyTel Internet Holdings, Inc.
+AS7191  AS-7191 - CenturyTel Internet Holdings, Inc.
+AS16835 CENTURYLINK-16835 - CenturyTel Internet Holdings, Inc.
+AS17047 CENTURYTELECOMM - CenturyTel Solutions, LLC
+AS22561 AS22561 - CenturyTel Internet Holdings, Inc.
+AS23126 CENTURYTEL-SOLUTIONS-LLC - CenturyTel Solutions, LLC
+AS3456  TW-CABLE - Time Warner Cable
+AS7017  SCRR-7015 - Time Warner Cable Internet LLC
+AS7756  SCRR-7756 - Time Warner Cable Internet LLC
+AS7843  TWCABLE-BACKBONE - Time Warner Cable Internet LLC
+AS7851  ASN-ADELPHIA2 - Time Warner Cable Internet LLC
+AS8052  SCRR-8052 - Time Warner Cable Internet LLC
+AS10311 SCRR-10311 - Time Warner Cable Internet LLC
+AS10796 SCRR-10796 - Time Warner Cable Internet LLC
+AS10994 TAMPA2-TWC-5 - Time Warner Cable Internet LLC
+AS11060 NEO-RR-COM - Time Warner Cable Internet LLC
+AS11351 RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC
+AS11426 SCRR-11426 - Time Warner Cable Internet LLC
+AS11427 SCRR-11427 - Time Warner Cable Internet LLC
+AS11654 RR-BINGHAMTON-ASN-01 - Time Warner Cable Internet LLC
+AS11707 SCRR-11707 - Time Warner Cable Internet LLC
+AS11955 SCRR-11955 - Time Warner Cable Internet LLC
+AS12262 RR-CINCINNATI-ASN-01 - Time Warner Cable Internet LLC
+AS12270 RR-TEXAS-ELPASO-ASN - Time Warner Cable Internet LLC
+AS12271 SCRR-12271 - Time Warner Cable Internet LLC
+AS13343 SCRR-13343 - Time Warner Cable Internet LLC
+AS13560 SCRR-13560 - Time Warner Cable Internet LLC
+AS14065 ADELPHIA-AS2 - Time Warner Cable Internet LLC
+AS18623 TWC-MISP-1 - Time Warner Cable Internet LLC
+AS19548 ADELPHIA-AS2 - Time Warner Cable Internet LLC
+AS20001 ROADRUNNER-WEST - Time Warner Cable Internet LLC
+AS20231 ROADRUNNER-CENTRAL - Time Warner Cable Internet LLC
+AS21522 ROADRUNNER-MNPLS - Time Warner Cable Internet LLC
+AS27476 TWCME - Time Warner Cable of Maine
+AS2548  ALGX-ATCW-AS - XO Communications
+AS2828  XO-AS15 - XO Communications
+AS4239  ATCW-AS - XO Communications
+AS4313  XOXO-AS4313 - XO Communications
+AS4908  AS-CONCENTRIC - XO Communications
+AS5725  XO - XO Communications
+AS7014  XO-AS7014 - XO Communications
+AS7836  XO-AS16 - XO Communications
+AS10805 XO-AS10805 - XO Communications
+AS11113 XO-AS11113 - XO Communications
+AS14040 XO-ASN1 - XO Communications
+AS14311 XO-ASN2 - XO Communications
+AS14405 XO-ASN4 - XO Communications
+AS14406 XO-ASN3 - XO Communications
+AS14407 XO-ASN5 - XO Communications
+AS15056 XO-ASN9 - XO Communications
+AS15057 XO-ASN6 - XO Communications
+AS15058 XO-ASN8 - XO Communications
+AS15060 XO-ASN7 - XO Communications
+AS19025 XO-ASN12 - XO Communications
+AS19026 XO-ASN14 - XO Communications
+AS19027 XO-ASN11 - XO Communications
+AS19028 XO-ASN10 - XO Communications
+AS19698 XO-19698-19699 - XO Communications
+AS19699 XO-19698-19699 - XO Communications
+AS8154  GTC - Gulf Telephone Company
+AS2379  EMBARQ-WNPK - Embarq Corporation
+AS3447  EMBARQ-CMDS - Embarq Corporation
+AS4212  EMBARQ-ES - Embarq Corporation
+AS5778  EMBARQ-RCMT - Embarq Corporation
+AS6222  EMBARQ-CLTN - Embarq Corporation
+AS6367  EMBARQ-KLLN - Embarq Corporation
+AS11398 EMBARQ-LVGS - Embarq Corporation
+AS11530 EMBARQ-MNFD - Embarq Corporation
+AS13787 EMBARQ-JCTY - Embarq Corporation
+AS14905 EMBARQ-CHVL - Embarq Corporation
+AS14910 EMBARQ-FTMY - Embarq Corporation
+AS14921 EMBARQ-HDRV - Embarq Corporation
+AS16718 EMBARQ-HMBL - Embarq Corporation
+AS17402 EMBARQ-CHSK - Embarq Corporation
+AS18494 EMBARQ-WRBG - Embarq Corporation
+AS22186 EMBARQ-GRNR - Embarq Corporation
+AS27497 EMBARQ-NETBRASKA2 - Embarq Corporation
+AS32855 EMBARQ-NEBRASKA - Embarq Corporation
+AS3561  SAVVIS-AS SAVVIS-AS3561
+AS4281  SAVVIS - Savvis
+AS4282  SAVVIS - Savvis
+AS4283  SAVVIS - Savvis
+AS4284  SAVVIS - Savvis
+AS4285  SAVVIS - Savvis
+AS4287  SAVVIS - Savvis
+AS4288  SAVVIS - Savvis
+AS4289  SAVVIS - Savvis
+AS4290  SAVVIS - Savvis
+AS4291  SAVVIS - Savvis
+AS4292  SAVVIS - Savvis
+AS4293  SAVVIS - Savvis
+AS4294  SAVVIS - Savvis
+AS4295  SAVVIS - Savvis
+AS4296  SAVVIS - Savvis
+AS4297  SAVVIS - Savvis
+AS4298  SAVVIS - Savvis
+AS6347  DIAMOND - Savvis
+AS7986  SAVVISCHI - SAVVIS COMMUNICATIONS
+AS7987  SAVVISDAL - SAVVIS COMMUNICATIONS
+AS7988  SAVVISLA - SAVVIS COMMUNICATIONS
+AS7989  SAVVISNY - SAVVIS COMMUNICATIONS
+AS7990  SAVVISSF - SAVVIS COMMUNICATIONS
+AS7991  SAVVISSTL - SAVVIS COMMUNICATIONS
+AS7776  MEBT7776 - Mebtel Communications
+AS15239 CIBER-TELEHOUSE-NET - CIBER INC.
+AS16521 HARRISBURG-BRANCH - CIBER INC
+AS19979 CIBER-NET - CIBER INC.
+AS22224 CIBERSITES-PHOENIX - CIBER INC.
+AS6145  3TIER-SEA - 3TIER Inc, 3TIER
+[root@NY1DNEDEVTERM02 AS]# cat AS-LUMEN.xls
+AS174   COGENT Cogent/PSI
+AS1281  COGENT-1281 - PSINet, Inc.
+AS1282  COGENT-1282 - PSINet, Inc.
+AS1283  COGENT-1283 - PSINet, Inc.
+AS1284  COGENT-1284 - PSINet, Inc.
+AS2149  COGENT-2149 - Cogent Communications
+AS2649  COGENT-2649 - PSINet, Inc.
+AS3830  COGENT-3830 - AGIS
+AS4006  COGENT-4006 - NetRail, Inc.
+AS4064  COGENT-4064 - AGIS
+AS4132  COGENT-4132 - AGIS
+AS4200  COGENT-4200 - AGIS
+AS4388  COGENT-4388 - AGIS
+AS4550  COGENT-4550 - Cogent Communications
+AS4991  COGENT-4991-4994 - AGIS
+AS4992  COGENT-4991-4994 - AGIS
+AS4993  COGENT-4991-4994 - AGIS
+AS4994  COGENT-4991-4994 - AGIS
+AS6259  COGENT-6259 - Cogent Communications
+AS6270  COGENT-6270 - NetRail, Inc.
+AS6271  COGENT-6271 - NetRail, Inc.
+AS6273  COGENT-6273 - NetRail, Inc.
+AS6274  COGENT-6274 - NetRail, Inc.
+AS6275  COGENT-6275 - NetRail, Inc.
+AS6276  COGENT-6276 - NetRail, Inc.
+AS6277  COGENT-6277 - NetRail, Inc.
+AS6494  COGENT-6494 - Cogent Communications
+AS6496  COGENT-6496 - Cogent Communications
+AS7061  COGENT-7061 - Cogent Communications
+AS7458  COGENT-7458 - Cogent Communications
+AS7982  COGENT-WAN - Cogent software,  Inc.
+AS10768 COGENT-10768 - Cogent Communications
+AS11024 COGENT-11024 - Cogent Communications
+AS11117 ASN-COGENT-QWEST - ENERGY CAPITAL PARTNERS MGMT
+AS11220 COGENT-11220 - Cogent Communications
+AS11526 COGENT-11526 - Cogent Communications
+AS12207 COGENT-12207 - Cogent Communications
+AS13129 GAT-AS C.C.D. Cogent Communications Deutschland GmbH
+AS16631 COGENT-16631 - Cogent Communications
+AS19164 COGENT-19164 - Cogent Communications
+AS22099 COGENT-22099 - Cogent Communications
+AS27544 SPECIALAI-COGENT-1 - Special Applied Intelligence Corp
+AS174   COGENT Cogent/PSI
+AS1281  COGENT-1281 - PSINet, Inc.
+AS1282  COGENT-1282 - PSINet, Inc.
+AS1283  COGENT-1283 - PSINet, Inc.
+AS1284  COGENT-1284 - PSINet, Inc.
+AS2149  COGENT-2149 - Cogent Communications
+AS2649  COGENT-2649 - PSINet, Inc.
+AS3830  COGENT-3830 - AGIS
+AS4006  COGENT-4006 - NetRail, Inc.
+AS4064  COGENT-4064 - AGIS
+AS4132  COGENT-4132 - AGIS
+AS4200  COGENT-4200 - AGIS
+AS4388  COGENT-4388 - AGIS
+AS4550  COGENT-4550 - Cogent Communications
+AS4991  COGENT-4991-4994 - AGIS
+AS4992  COGENT-4991-4994 - AGIS
+AS4993  COGENT-4991-4994 - AGIS
+AS4994  COGENT-4991-4994 - AGIS
+AS6259  COGENT-6259 - Cogent Communications
+AS6270  COGENT-6270 - NetRail, Inc.
+AS6271  COGENT-6271 - NetRail, Inc.
+AS6273  COGENT-6273 - NetRail, Inc.
+AS6274  COGENT-6274 - NetRail, Inc.
+AS6275  COGENT-6275 - NetRail, Inc.
+AS6276  COGENT-6276 - NetRail, Inc.
+AS6277  COGENT-6277 - NetRail, Inc.
+AS6494  COGENT-6494 - Cogent Communications
+AS6496  COGENT-6496 - Cogent Communications
+AS7061  COGENT-7061 - Cogent Communications
+AS7458  COGENT-7458 - Cogent Communications
+AS7982  COGENT-WAN - Cogent software,  Inc.
+AS10768 COGENT-10768 - Cogent Communications
+AS11024 COGENT-11024 - Cogent Communications
+AS11117 ASN-COGENT-QWEST - ENERGY CAPITAL PARTNERS MGMT
+AS11220 COGENT-11220 - Cogent Communications
+AS11526 COGENT-11526 - Cogent Communications
+AS12207 COGENT-12207 - Cogent Communications
+AS13129 GAT-AS C.C.D. Cogent Communications Deutschland GmbH
+AS16631 COGENT-16631 - Cogent Communications
+AS19164 COGENT-19164 - Cogent Communications
+AS22099 COGENT-22099 - Cogent Communications
+AS27544 SPECIALAI-COGENT-1 - Special Applied Intelligence Corp
+AS1     LVLT-1 - Level 3 Communications, Inc.
+AS189   LVLT-189 - Level 3 Communications, Inc.
+AS199   LVLT-199-203 - Level 3 Communications, Inc.
+AS200   LVLT-199-203 - Level 3 Communications, Inc.
+AS201   LVLT-199-203 - Level 3 Communications, Inc.
+AS202   LVLT-199-203 - Level 3 Communications, Inc.
+AS203   LVLT-199-203 - Level 3 Communications, Inc.
+AS279   LVLT-279 - Level 3 Communications, Inc.
+AS281   LVLT-281 - Level 3 Communications, Inc.
+AS524   LVLT-524 - Level 3 Communications, Inc.
+AS560   LVLT-560 - Level 3 Communications, Inc.
+AS594   LVLT594-598 - Level 3 Communications, Inc.
+AS595   LVLT594-598 - Level 3 Communications, Inc.
+AS596   LVLT594-598 - Level 3 Communications, Inc.
+AS597   LVLT594-598 - Level 3 Communications, Inc.
+AS598   LVLT594-598 - Level 3 Communications, Inc.
+AS2551  LVLT-2551 - Level 3 Communications, Inc.
+AS6395  LVLT-6395 - Level 3 Communications, Inc.
+AS7911  LVLT-7911 - Level 3 Communications, Inc.
+AS8043  LVLT-8043 - Level 3 Communications, Inc.
+AS10753 LVLT-10753 - Level 3 Communications, Inc.
+AS11213 LVLT - Level 3 Communications, Inc.
+AS16852 LVLT-16852 - Level 3 Communications, Inc.
+AS19094 LVLT-19094 - Level 3 Communications, Inc.
+AS19591 LVLT-19591 - Level 3 Communications, Inc.
+AS19962 LVLT-19962 - Level 3 Communications, Inc.
+AS20476 LVLT-20476 - Level 3 Communications, Inc.
+AS30686 LVLT-30686 - Level 3 Communications, Inc.
+AS209   ASN-QWEST-US NOVARTIS-DMZ-US
+AS1899  AS1899 OLD KPNQwest France AS
+AS3908  QWEST-AS-3908 - Qwest Communications Company, LLC
+AS3909  QWEST-AS-3908 - Qwest Communications Company, LLC
+AS3910  QWEST-AS-3908 - Qwest Communications Company, LLC
+AS3951  QWST - Qwest Communications Company, LLC
+AS4015  QWEST-AS-4015 - Qwest Corporation
+AS4048  QWEST-AS-4048 - Qwest Communications Company, LLC
+AS4911  QWEST-AS-4911 - Qwest Communications Company, LLC
+AS5602  KPNQwest Italia S.p.a
+AS5737  QWEST-AS-5737 - Qwest Corporation
+AS6223  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6224  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6225  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6226  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6227  QWEST-ASNBLK-2 - Qwest Communications Company, LLC
+AS6640  QWEST-AS-6640 - Qwest Communications Company, LLC
+AS7161  QWEST-AS-7161 - Qwest Corporation
+AS7359  QWEST-AS-7359 - Qwest Corporation
+AS10117 VIEWQWEST-SG-AS-AP Viewqwest Singapore Pte Ltd Broadband Border AS
+AS10383 QWEST-AS-10383 - Qwest Corporation
+AS10424 QWEST-AS-10424 - Qwest Corporation
+AS10825 QWEST-ASNBLK-3 - Qwest Corporation
+AS10826 QWEST-ASNBLK-3 - Qwest Corporation
+AS10827 QWEST-ASNBLK-3 - Qwest Corporation
+AS10828 QWEST-ASNBLK-3 - Qwest Corporation
+AS10829 QWEST-ASNBLK-3 - Qwest Corporation
+AS10830 QWEST-ASNBLK-3 - Qwest Corporation
+AS10831 QWEST-ASNBLK-3 - Qwest Corporation
+AS10832 QWEST-ASNBLK-3 - Qwest Corporation
+AS10833 QWEST-ASNBLK-3 - Qwest Corporation
+AS10960 QWEST-AS-10960 - Qwest Corporation
+AS11104 QWEST-AS-11104 - Qwest Corporation
+AS11117 ASN-COGENT-QWEST - ENERGY CAPITAL PARTNERS MGMT
+AS11225 QWEST-ASNBLK-4 - Qwest Corporation
+AS11226 QWEST-ASNBLK-4 - Qwest Corporation
+AS11412 QWEST-AS-11412 - Qwest Corporation
+AS11538 QWEST-AS-11538 - Qwest Corporation
+AS18106 VIEWQWEST-SG-AP Viewqwest Pte Ltd
+AS19629 CONSULT-RAD-AS-QWEST - CONSULTING RADIOLOGIST, LTD
+AS26024 VIEWQ-NET - Viewqwest, Inc
+AS5668  AS-5668 - CenturyTel Internet Holdings, Inc.
+AS7191  AS-7191 - CenturyTel Internet Holdings, Inc.
+AS16835 CENTURYLINK-16835 - CenturyTel Internet Holdings, Inc.
+AS17047 CENTURYTELECOMM - CenturyTel Solutions, LLC
+AS22561 AS22561 - CenturyTel Internet Holdings, Inc.
+AS23126 CENTURYTEL-SOLUTIONS-LLC - CenturyTel Solutions, LLC
+AS3456  TW-CABLE - Time Warner Cable
+AS7017  SCRR-7015 - Time Warner Cable Internet LLC
+AS7756  SCRR-7756 - Time Warner Cable Internet LLC
+AS7843  TWCABLE-BACKBONE - Time Warner Cable Internet LLC
+AS7851  ASN-ADELPHIA2 - Time Warner Cable Internet LLC
+AS8052  SCRR-8052 - Time Warner Cable Internet LLC
+AS10311 SCRR-10311 - Time Warner Cable Internet LLC
+AS10796 SCRR-10796 - Time Warner Cable Internet LLC
+AS10994 TAMPA2-TWC-5 - Time Warner Cable Internet LLC
+AS11060 NEO-RR-COM - Time Warner Cable Internet LLC
+AS11351 RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC
+AS11426 SCRR-11426 - Time Warner Cable Internet LLC
+AS11427 SCRR-11427 - Time Warner Cable Internet LLC
+AS11654 RR-BINGHAMTON-ASN-01 - Time Warner Cable Internet LLC
+AS11707 SCRR-11707 - Time Warner Cable Internet LLC
+AS11955 SCRR-11955 - Time Warner Cable Internet LLC
+AS12262 RR-CINCINNATI-ASN-01 - Time Warner Cable Internet LLC
+AS12270 RR-TEXAS-ELPASO-ASN - Time Warner Cable Internet LLC
+AS12271 SCRR-12271 - Time Warner Cable Internet LLC
+AS13343 SCRR-13343 - Time Warner Cable Internet LLC
+AS13560 SCRR-13560 - Time Warner Cable Internet LLC
+AS14065 ADELPHIA-AS2 - Time Warner Cable Internet LLC
+AS18623 TWC-MISP-1 - Time Warner Cable Internet LLC
+AS19548 ADELPHIA-AS2 - Time Warner Cable Internet LLC
+AS20001 ROADRUNNER-WEST - Time Warner Cable Internet LLC
+AS20231 ROADRUNNER-CENTRAL - Time Warner Cable Internet LLC
+AS21522 ROADRUNNER-MNPLS - Time Warner Cable Internet LLC
+AS27476 TWCME - Time Warner Cable of Maine
+AS2548  ALGX-ATCW-AS - XO Communications
+AS2828  XO-AS15 - XO Communications
+AS4239  ATCW-AS - XO Communications
+AS4313  XOXO-AS4313 - XO Communications
+AS4908  AS-CONCENTRIC - XO Communications
+AS5725  XO - XO Communications
+AS7014  XO-AS7014 - XO Communications
+AS7836  XO-AS16 - XO Communications
+AS10805 XO-AS10805 - XO Communications
+AS11113 XO-AS11113 - XO Communications
+AS14040 XO-ASN1 - XO Communications
+AS14311 XO-ASN2 - XO Communications
+AS14405 XO-ASN4 - XO Communications
+AS14406 XO-ASN3 - XO Communications
+AS14407 XO-ASN5 - XO Communications
+AS15056 XO-ASN9 - XO Communications
+AS15057 XO-ASN6 - XO Communications
+AS15058 XO-ASN8 - XO Communications
+AS15060 XO-ASN7 - XO Communications
+AS19025 XO-ASN12 - XO Communications
+AS19026 XO-ASN14 - XO Communications
+AS19027 XO-ASN11 - XO Communications
+AS19028 XO-ASN10 - XO Communications
+AS19698 XO-19698-19699 - XO Communications
+AS19699 XO-19698-19699 - XO Communications
+AS8154  GTC - Gulf Telephone Company
+AS2379  EMBARQ-WNPK - Embarq Corporation
+AS3447  EMBARQ-CMDS - Embarq Corporation
+AS4212  EMBARQ-ES - Embarq Corporation
+AS5778  EMBARQ-RCMT - Embarq Corporation
+AS6222  EMBARQ-CLTN - Embarq Corporation
+AS6367  EMBARQ-KLLN - Embarq Corporation
+AS11398 EMBARQ-LVGS - Embarq Corporation
+AS11530 EMBARQ-MNFD - Embarq Corporation
+AS13787 EMBARQ-JCTY - Embarq Corporation
+AS14905 EMBARQ-CHVL - Embarq Corporation
+AS14910 EMBARQ-FTMY - Embarq Corporation
+AS14921 EMBARQ-HDRV - Embarq Corporation
+AS16718 EMBARQ-HMBL - Embarq Corporation
+AS17402 EMBARQ-CHSK - Embarq Corporation
+AS18494 EMBARQ-WRBG - Embarq Corporation
+AS22186 EMBARQ-GRNR - Embarq Corporation
+AS27497 EMBARQ-NETBRASKA2 - Embarq Corporation
+AS32855 EMBARQ-NEBRASKA - Embarq Corporation
+AS3561  SAVVIS-AS SAVVIS-AS3561
+AS4281  SAVVIS - Savvis
+AS4282  SAVVIS - Savvis
+AS4283  SAVVIS - Savvis
+AS4284  SAVVIS - Savvis
+AS4285  SAVVIS - Savvis
+AS4287  SAVVIS - Savvis
+AS4288  SAVVIS - Savvis
+AS4289  SAVVIS - Savvis
+AS4290  SAVVIS - Savvis
+AS4291  SAVVIS - Savvis
+AS4292  SAVVIS - Savvis
+AS4293  SAVVIS - Savvis
+AS4294  SAVVIS - Savvis
+AS4295  SAVVIS - Savvis
+AS4296  SAVVIS - Savvis
+AS4297  SAVVIS - Savvis
+AS4298  SAVVIS - Savvis
+AS6347  DIAMOND - Savvis
+AS7986  SAVVISCHI - SAVVIS COMMUNICATIONS
+AS7987  SAVVISDAL - SAVVIS COMMUNICATIONS
+AS7988  SAVVISLA - SAVVIS COMMUNICATIONS
+AS7989  SAVVISNY - SAVVIS COMMUNICATIONS
+AS7990  SAVVISSF - SAVVIS COMMUNICATIONS
+AS7991  SAVVISSTL - SAVVIS COMMUNICATIONS
+AS7776  MEBT7776 - Mebtel Communications
+AS15239 CIBER-TELEHOUSE-NET - CIBER INC.
+AS16521 HARRISBURG-BRANCH - CIBER INC
+AS19979 CIBER-NET - CIBER INC.
+AS22224 CIBERSITES-PHOENIX - CIBER INC.
+AS6145  3TIER-SEA - 3TIER Inc, 3TIER
